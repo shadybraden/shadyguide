@@ -7,11 +7,11 @@
     - [firewalls don't stop dragons](https://firewallsdontstopdragons.com/) low threat model content
     - [New Oil](https://www.thenewoil.org/) low TM
     - [IntelTechniques Michael Bazzell](https://inteltechniques.com/podcast.html) high TM
-    - [Privacy Guides](https://www.privacyguides.org/en/] variable TM
+    - [Privacy Guides](https://www.privacyguides.org/en/) variable TM
     - [Techlore](https://techlore.tech/) low TM
     - reddit:
         - privacy
-    - News Feeds:
+    - News Feeds: (RSS. use any app. i recomend 'Read You')
         - [hacker news](https://hnrss.org/frontpage.atom)
 		- [databreaches](https://www.databreaches.net/feed/)
 		- [have i been pwned]()
