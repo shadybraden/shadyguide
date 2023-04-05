@@ -2,14 +2,14 @@
     - idea is who are you hiding from? 
         - trying to just be more private and secure without losing any sanity? `low TM` then. 
         - trying to hide any and all activity from governments? high TM.
-		- low threat model isn't bad, just for a specific audience
+		- ***low threat model isn't bad, just for a specific audience***
 ---
 - Places to learn (and their target audience)
-    - [Firewalls Don't Stop Dragons](https://firewallsdontstopdragons.com/) low threat model content
-    - [New Oil](https://www.thenewoil.org/) low TM
-    - [IntelTechniques Michael Bazzell](https://inteltechniques.com/podcast.html) high TM
-    - [Privacy Guides](https://www.privacyguides.org/en/) variable TM
-    - [Techlore](https://techlore.tech/) low TM
+    - [Firewalls Don't Stop Dragons](https://firewallsdontstopdragons.com/) `low threat model content`
+    - [New Oil](https://www.thenewoil.org/) `low TM`
+    - [IntelTechniques Michael Bazzell](https://inteltechniques.com/podcast.html) `high TM`
+    - [Privacy Guides](https://www.privacyguides.org/en/) `variable TM`
+    - [Techlore](https://techlore.tech/) `low TM`
     - reddit:
         - https://www.reddit.com/r/privacy/
 		- https://www.reddit.com/r/PrivacyGuides/
@@ -22,7 +22,7 @@
 		- [Reddit Search for "f1"](http://www.reddit.com/r/motorsportsreplays/search.rss?q=f1&sort=new&restrict_sr=on)
 ---
 - Apps list
-    - [Aegis](https://play.google.com/store/apps/details?id=com.beemdevelopment.aegis)
+    - [Aegis](https://play.google.com/store/apps/details?id=com.beemdevelopment.aegis) MFA/2FA #security
     - [Amaze](https://play.google.com/store/apps/details?id=com.amaze.filemanager)
     - [Aurora](https://play.google.com/store/apps/details?id=com.aurora.store)
     - [Aves](https://play.google.com/store/apps/details?id=deckers.thibault.aves)
