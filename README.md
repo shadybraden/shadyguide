@@ -21,11 +21,11 @@
 
 
 [Aegis](https://play.google.com/store/apps/details?id=com.beemdevelopment.aegis)
-[Amaze] https://play.google.com/store/apps/details?id=com.amaze.filemanager
-[Aurora] Store https://play.google.com/store/apps/details?id=com.aurora.store
-[Aves] https://play.google.com/store/apps/details?id=deckers.thibault.aves
-[Barcode Scanner] https://play.google.com/store/apps/details?id=com.atharok.barcodescanner
-[Bible Study] https://play.google.com/store/apps/details?id=net.bible.android.activity
+[Amaze] (https://play.google.com/store/apps/details?id=com.amaze.filemanager
+[Aurora] (https://play.google.com/store/apps/details?id=com.aurora.store
+[Aves] (https://play.google.com/store/apps/details?id=deckers.thibault.aves
+[Barcode Scanner] (https://play.google.com/store/apps/details?id=com.atharok.barcodescanner
+[Bible Study]( https://play.google.com/store/apps/details?id=net.bible.android.activity)
 [Bitwarden] https://play.google.com/store/apps/details?id=com.x8bit.bitwarden
 [Brave] https://play.google.com/store/apps/details?id=com.brave.browser
 [Bromite] https://play.google.com/store/apps/details?id=org.bromite.bromite
