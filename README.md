@@ -12,11 +12,11 @@
     - reddit: 
         - privacy
     - News Feeds:
-        - [](hacker news)
-		- [](databreaches)
-		- [](have i been pwned)
-		- []()
-		- [](reddit search)
+        - [hacker news](https://hnrss.org/frontpage.atom)
+		- [databreaches](https://www.databreaches.net/feed/)
+		- [have i been pwned]()
+		- [when a missile has been fired](https://nitter.net/MissileDefAdv/rss)
+		- [reddit search for "f1"](http://www.reddit.com/r/motorsportsreplays/search.rss?q=f1&sort=new&restrict_sr=on)
 - Apps list
     - [Aegis](https://play.google.com/store/apps/details?id=com.beemdevelopment.aegis)
     - [Amaze](https://play.google.com/store/apps/details?id=com.amaze.filemanager)
