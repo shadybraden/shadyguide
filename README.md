@@ -5,10 +5,10 @@
 		- low threat model isn't bad, just for a specific audience
 - Places to learn (and their target audience)
     - [firewalls don't stop dragons](https://firewallsdontstopdragons.com/) (low threat model content)
-    - [New Oil](thenewoil.org) (low TM)
-    - [Michael Bazznel](https://inteltechniques.com/podcast.html) (high TM)
-    - [Privacy Guides](privacyguides.org) (variable TM)
-    - [Techlore](techlore.tech) (low TM)
+    - [New Oil](https://www.thenewoil.org/) (low TM)
+    - [IntelTechniques Michael Bazzell](https://inteltechniques.com/podcast.html) (high TM)
+    - [Privacy Guides](https://www.privacyguides.org/en/) (variable TM)
+    - [Techlore](https://techlore.tech/) (low TM)
     - reddit: 
         - privacy
     - News Feeds:
