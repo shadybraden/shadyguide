@@ -4,7 +4,7 @@
         - trying to hide any and all activity from governments? high TM.
 		- low threat model isn't bad, just for a specific audience
 - Places to learn (and their target audience)
-    - [firewalls don't stop dragons](https://firewallsdontstopdragons.com/) low threat model content
+    - [Firewalls Don't Stop Dragons](https://firewallsdontstopdragons.com/) low threat model content
     - [New Oil](https://www.thenewoil.org/) low TM
     - [IntelTechniques Michael Bazzell](https://inteltechniques.com/podcast.html) high TM
     - [Privacy Guides](https://www.privacyguides.org/en/) variable TM
@@ -12,11 +12,13 @@
     - reddit:
         - privacy
     - News Feeds: (RSS. use any app. i recomend 'Read You')
-        - [hacker news](https://hnrss.org/frontpage.atom)
-		- [databreaches](https://www.databreaches.net/feed/)
-		- [have i been pwned]()
-		- [when a missile has been fired](https://nitter.net/MissileDefAdv/rss)
-		- [reddit search for "f1"](http://www.reddit.com/r/motorsportsreplays/search.rss?q=f1&sort=new&restrict_sr=on)
+        - [Hacker News](https://hnrss.org/frontpage.atom)
+		- [Databreaches](https://www.databreaches.net/feed/)
+		- [Have I Been Pwned]()
+		- [MissileDefAdv](https://nitter.net/MissileDefAdv/rss)
+		- [Reddit Search for "f1"](http://www.reddit.com/r/motorsportsreplays/search.rss?q=f1&sort=new&restrict_sr=on)
+
+
 - Apps list
     - [Aegis](https://play.google.com/store/apps/details?id=com.beemdevelopment.aegis)
     - [Amaze](https://play.google.com/store/apps/details?id=com.amaze.filemanager)
