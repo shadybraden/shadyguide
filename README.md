@@ -32,7 +32,7 @@
     - [Coffee](https://play.google.com/store/apps/details?id=com.github.muellerma.coffee)
     - [Collabora Office](https://play.google.com/store/apps/details?id=com.collabora.libreoffice)
     - [Contacts](https://play.google.com/store/apps/details?id=com.simplemobiletools.contacts.pro)
-    - [Droid-ify]](https://play.google.com/store/apps/details?id=com.looker.droidify)
+    - [Droid-ify](https://play.google.com/store/apps/details?id=com.looker.droidify)
     - [EDS Lite](https://play.google.com/store/apps/details?id=com.sovworks.edslite)
     - [F-Droid](https://play.google.com/store/apps/details?id=org.fdroid.fdroid)
     - [FairEmail](https://play.google.com/store/apps/details?id=eu.faircode.email)
@@ -64,6 +64,6 @@
     - [Text Fairy](https://play.google.com/store/apps/details?id=com.renard.ocr)
     - [TrackerControl](https://play.google.com/store/apps/details?id=net.kollnig.missioncontrol.fdroid)
     - [Video Transcoder](https://play.google.com/store/apps/details?id=protect.videoeditor)
-    - [VLC](https://play.google.com/store/apps/details?id=org.videolan.vlc
+    - [VLC](https://play.google.com/store/apps/details?id=org.videolan.vlc)
     - [Voice Recorder](https://play.google.com/store/apps/details?id=com.simplemobiletools.voicerecorder)
     - [Zettel Notes](https://play.google.com/store/apps/details?id=org.eu.thedoc.zettelnotes)
