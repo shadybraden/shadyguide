@@ -17,8 +17,7 @@
 		- [Have I Been Pwned]()
 		- [MissileDefAdv](https://nitter.net/MissileDefAdv/rss)
 		- [Reddit Search for "f1"](http://www.reddit.com/r/motorsportsreplays/search.rss?q=f1&sort=new&restrict_sr=on)
-
-
+---
 - Apps list
     - [Aegis](https://play.google.com/store/apps/details?id=com.beemdevelopment.aegis)
     - [Amaze](https://play.google.com/store/apps/details?id=com.amaze.filemanager)
