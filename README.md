@@ -1,2 +1,15 @@
-# shadyguide
-Guide of apps and services list for greater security and privacy online. Also how to learn more about security and privacy.
+- Threat model (TM)
+    - idea is who are you hiding from? 
+        - trying to just be more private and secure without losing any sanity? low TM then. 
+        - trying to hide any and all activity from governments? high TM.
+- Places to learn (and their target audience)
+    - [firewalls don't stop dragons](https://firewallsdontstopdragons.com/) (low threat model content)
+    - thenewoil.org (low TM)
+    - [Michael Bazznel](https://inteltechniques.com/podcast.html) (high TM)
+    - privacyguides.org (variable TM)
+    - techlore.tech (low TM)
+    - reddit: 
+        - privacy
+    - News Feeds:
+        - HN
+- Apps list
