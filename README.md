@@ -4,12 +4,12 @@
         - trying to hide any and all activity from governments? high TM.
 		- low threat model isn't bad, just for a specific audience
 - Places to learn (and their target audience)
-    - [firewalls don't stop dragons](https://firewallsdontstopdragons.com/) (low threat model content)
-    - [New Oil](https://www.thenewoil.org/) (low TM)
-    - [IntelTechniques Michael Bazzell](https://inteltechniques.com/podcast.html) (high TM)
-    - [Privacy Guides](https://www.privacyguides.org/en/) (variable TM)
-    - [Techlore](https://techlore.tech/) (low TM)
-    - reddit: 
+    - [https://firewallsdontstopdragons.com/](firewalls don't stop dragons) (low threat model content)
+    - [https://www.thenewoil.org/](New Oil) (low TM)
+    - [https://inteltechniques.com/podcast.html](IntelTechniques Michael Bazzell) (high TM)
+    - [https://www.privacyguides.org/en/](Privacy Guides](variable TM)
+    - [https://techlore.tech/](Techlore) (low TM)
+    - reddit:
         - privacy
     - News Feeds:
         - [hacker news](https://hnrss.org/frontpage.atom)
