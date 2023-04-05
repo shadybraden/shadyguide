@@ -1,6 +1,6 @@
 - Threat Model (TM)
     - idea is who are you hiding from? 
-        - trying to just be more private and secure without losing any sanity? low TM then. 
+        - trying to just be more private and secure without losing any sanity? _low TM_ then. 
         - trying to hide any and all activity from governments? high TM.
 		- low threat model isn't bad, just for a specific audience
 ---
