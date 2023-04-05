@@ -19,7 +19,7 @@
 		- [](reddit search)
 - Apps list
 
-Aegis https://play.google.com/store/apps/details?id=com.beemdevelopment.aegis
+[https://play.google.com/store/apps/details?id=com.beemdevelopment.aegis](Aegis)
 Amaze https://play.google.com/store/apps/details?id=com.amaze.filemanager
 Aurora Store https://play.google.com/store/apps/details?id=com.aurora.store
 Aves https://play.google.com/store/apps/details?id=deckers.thibault.aves
