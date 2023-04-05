@@ -3,6 +3,7 @@
         - trying to just be more private and secure without losing any sanity? low TM then. 
         - trying to hide any and all activity from governments? high TM.
 		- low threat model isn't bad, just for a specific audience
+---
 - Places to learn (and their target audience)
     - [Firewalls Don't Stop Dragons](https://firewallsdontstopdragons.com/) low threat model content
     - [New Oil](https://www.thenewoil.org/) low TM
@@ -10,7 +11,9 @@
     - [Privacy Guides](https://www.privacyguides.org/en/) variable TM
     - [Techlore](https://techlore.tech/) low TM
     - reddit:
-        - privacy
+        - https://www.reddit.com/r/privacy/
+		- https://www.reddit.com/r/PrivacyGuides/
+		- https://www.reddit.com/r/PrivacySecurityOSINT/
     - News Feeds: (RSS. use any app. i recomend 'Read You')
         - [Hacker News](https://hnrss.org/frontpage.atom)
 		- [Databreaches](https://www.databreaches.net/feed/)
