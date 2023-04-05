@@ -1,7 +1,8 @@
-- Threat model (TM)
+- Threat Model (TM)
     - idea is who are you hiding from? 
         - trying to just be more private and secure without losing any sanity? low TM then. 
         - trying to hide any and all activity from governments? high TM.
+		- low threat model isn't bad, just for a specific audience
 - Places to learn (and their target audience)
     - [firewalls don't stop dragons](https://firewallsdontstopdragons.com/) (low threat model content)
     - [New Oil](thenewoil.org) (low TM)
