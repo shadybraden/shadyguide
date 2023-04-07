@@ -34,7 +34,7 @@
 	    - [Port Authority](https://play.google.com/store/apps/details?id=com.aaronjwood.portauthority.free) lan scan
 	- general apps (for a mix of random apps to replace non-FOSS apps or more niche apps)
 		- [Amaze](https://play.google.com/store/apps/details?id=com.amaze.filemanager) file manager
-		- [Aurora](https://play.google.com/store/apps/details?id=com.aurora.store) download apps from google anonymously
+		- [Aurora](https://play.google.com/store/apps/details?id=com.aurora.store) download apps from google play anonymously
 		- [Aves](https://play.google.com/store/apps/details?id=deckers.thibault.aves) photo gallery
 		- [Barcode Scanner](https://play.google.com/store/apps/details?id=com.atharok.barcodescanner) scan and make qr codes and other
 		- [Bible Study](https://play.google.com/store/apps/details?id=net.bible.android.activity) offline bible
