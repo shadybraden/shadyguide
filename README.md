@@ -1,7 +1,7 @@
 - Threat Model (TM)
-    - idea is who are you hiding from? 
+    - idea is what are you trying to protect? 
         - trying to just be more private and secure without losing any sanity? `low TM` then. 
-        - trying to hide any and all activity from governments? high TM.
+        - maximum security and privacy. as resistent to government spying as possible `high TM.`
 		- ***low threat model isn't bad, just for a specific audience***
 ---
 - Places to learn (and their target audience)
@@ -51,7 +51,7 @@
 		- [FairEmail](https://play.google.com/store/apps/details?id=eu.faircode.email) email app
 		- [FlashDim](https://play.google.com/store/apps/details?id=com.cyb3rko.flashdim) variable flashlight
 		- [FlorisBoard](https://play.google.com/store/apps/details?id=dev.patrickgold.florisboard) great keybard without autocorrect (yet)
-		- [Gboard](https://play.google.com/store/apps/details?id=com.google.android.inputmethod.latin) don't allow internet
+		- [Gboard](https://play.google.com/store/apps/details?id=com.google.android.inputmethod.latin) don't allow internet when installing
 		- [Glider](https://play.google.com/store/apps/details?id=nl.viter.glider) hacker news viewer
 		- [Infinity](https://play.google.com/store/apps/details?id=ml.docilealligator.infinityforreddit) reddit client
 		- [Key Mapper](https://play.google.com/store/apps/details?id=io.github.sds100.keymapper) shortcuts with physical buttons
