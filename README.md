@@ -21,6 +21,10 @@
 		- [MissileDefAdv](https://nitter.net/MissileDefAdv/rss)
 		- [Reddit Search for "f1"](http://www.reddit.com/r/motorsportsreplays/search.rss?q=f1&sort=new&restrict_sr=on)
 ---
+- Browsers:
+	- [hardened firefox](https://www.youtube.com/watch?v=dwZpjKH8nbo) (for general browsing)
+	- brave (for accounts and staying logged in)
+---
 - Apps list (most come from F-Droid (or droidify). look there first)
 	- `SECURITY APPS`: (the first steps towards achieving a greater than average threat model)
 		- [Aegis](https://play.google.com/store/apps/details?id=com.beemdevelopment.aegis) MFA/2FA
