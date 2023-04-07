@@ -22,7 +22,7 @@
 		- [Reddit Search for "f1"](http://www.reddit.com/r/motorsportsreplays/search.rss?q=f1&sort=new&restrict_sr=on)
 ---
 - Apps list (most come from F-Droid (or droidify). look there first)
-	- secuity apps: (the first steps towards achieving a greater than average threat model)
+	- _secuity apps_: (the first steps towards achieving a greater than average threat model)
 		- [Aegis](https://play.google.com/store/apps/details?id=com.beemdevelopment.aegis) MFA/2FA
 	    - [Bitwarden](https://play.google.com/store/apps/details?id=com.x8bit.bitwarden) password manager
 	    - [RethinkDNS](https://play.google.com/store/apps/details?id=com.celzero.bravedns) makes a *local only* vpn, so you can block specific sites, apps and ip addresses and view network log
