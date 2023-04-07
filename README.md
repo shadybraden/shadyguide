@@ -22,17 +22,17 @@
 		- [Reddit Search for "f1"](http://www.reddit.com/r/motorsportsreplays/search.rss?q=f1&sort=new&restrict_sr=on)
 ---
 - Apps list (most come from F-Droid (or droidify). look there first)
-	- secuity apps:
+	- secuity apps: (the first steps towards achieving a greater than average threat model)
 		- [Aegis](https://play.google.com/store/apps/details?id=com.beemdevelopment.aegis) MFA/2FA
 	    - [Bitwarden](https://play.google.com/store/apps/details?id=com.x8bit.bitwarden) password manager
 	    - [RethinkDNS](https://play.google.com/store/apps/details?id=com.celzero.bravedns) makes a *local only* vpn, so you can block specific sites, apps and ip addresses and view network log
 	    - [Signal](https://play.google.com/store/apps/details?id=org.thoughtcrime.securesms) messaging
-	- privacy apps (or less important secuity ones)
+	- privacy apps (or less important secuity ones) (towards a higher TM)
 	    - [Scrambled Exif](https://play.google.com/store/apps/details?id=com.jarsilio.android.scrambledeggsif) delete metadata from images before sharing
 	    - [KeePassDX](https://play.google.com/store/apps/details?id=com.kunzisoft.keepass.libre) fully offline password manager
 	    - [IYPS](https://play.google.com/store/apps/details?id=com.iyps) check password strength offline
 	    - [Port Authority](https://play.google.com/store/apps/details?id=com.aaronjwood.portauthority.free) lan scan
-	- general apps
+	- general apps (for a mix of random apps to replace non-FOSS apps or more niche apps)
 		- [Amaze](https://play.google.com/store/apps/details?id=com.amaze.filemanager) file manager
 		- [Aurora](https://play.google.com/store/apps/details?id=com.aurora.store) download apps from google anonymously
 		- [Aves](https://play.google.com/store/apps/details?id=deckers.thibault.aves) photo gallery
